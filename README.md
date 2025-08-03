@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1734-bank-account-summary-ii](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
