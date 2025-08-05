@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/0177-nth-highest-salary) |
 | [0577-employee-bonus](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/0586-customer-placing-the-largest-number-of-orders) |
