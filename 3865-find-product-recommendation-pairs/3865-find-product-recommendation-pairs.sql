@@ -1,15 +1,6 @@
 # Write your MySQL query statement below
-with cte as (
-    select user_id, product_id
-    from productpurchases
-),
-
-cte2 as (
-    select c1.user_id, c1.product_id as product1_id, c2.product_id as product2_id  from cte c1 join cte c2 on c1.user_id = c2.user_id and c1.product_id < c2.product_id
-),
-
-cte3 as (
-    select count(*) as customer_count , product1_id, product2_id  from cte2
+with cte3 as (
+    select c1.user_id, c1.product_id as product1_id, c2.product_id as product2_id, count(*) as customer_count  from ProductPurchases  c1 join ProductPurchases  c2 on c1.user_id = c2.user_id and c1.product_id < c2.product_id
     group by product1_id, product2_id 
     having count(*) >= 3
 )
