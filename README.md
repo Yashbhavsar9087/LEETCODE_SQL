@@ -28,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1877-find-followers-count) |
 | [3767-find-students-who-improved](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3767-find-students-who-improved) |
+| [3816-dna-pattern-recognition](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
