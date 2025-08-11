@@ -37,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3865-find-product-recommendation-pairs](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3865-find-product-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3898-seasonal-sales-analysis) |
 | [3921-find-consistently-improving-employees](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3921-find-consistently-improving-employees) |
+| [3932-find-covid-recovery-patients](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3932-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
