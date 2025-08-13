@@ -39,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-find-consistently-improving-employees](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3921-find-consistently-improving-employees) |
 | [3932-find-covid-recovery-patients](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3932-find-covid-recovery-patients) |
 | [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
+| [3943-find-overbooked-employees](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/3943-find-overbooked-employees) |
 <!---LeetCode Topics End-->
