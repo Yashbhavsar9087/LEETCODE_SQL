@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1877-find-followers-count) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Yashbhavsar9087/LEETCODE_SQL/tree/master/2041-the-latest-login-in-2020) |
